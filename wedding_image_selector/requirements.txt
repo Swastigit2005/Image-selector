@@ -1,0 +1,27 @@
+# -------- CORE --------
+opencv-python>=4.5.5
+numpy>=1.21.0
+pandas>=1.3.0
+tqdm>=4.62.3
+scipy>=1.7.3
+
+# -------- FACE DETECTION & QUALITY --------
+insightface==0.7.3
+onnxruntime>=1.9.0
+
+# -------- EMOTION / EXPRESSION ANALYSIS --------
+deepface>=0.0.79
+
+# -------- AESTHETIC SCORING --------
+torch>=1.10.0
+torchvision>=0.11.1
+transformers>=4.12.5
+Pillow>=8.4.0
+
+# -------- PERSON DETECTION (YOLOv8) --------
+ultralytics>=8.0.0
+
+# -------- GUI (optional for Tkinter GUI) --------
+# tkinter is included by default on Windows/macOS
+# For Linux, install with:
+# sudo apt install python3-tk
