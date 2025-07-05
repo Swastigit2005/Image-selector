@@ -1,4 +1,4 @@
-# Image-selector
+# Wedding Image-selector
 This project is an automated wedding image selector that intelligently filters, scores, and selects the best photos from a large set of wedding images. It uses advanced computer vision and deep learning models to evaluate each image based on multiple criteria, including:
 
 •	Face and person detection: Ensures real people are present and filters out images with too few or low-quality faces.
