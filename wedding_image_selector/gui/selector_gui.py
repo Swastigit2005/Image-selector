@@ -1,4 +1,3 @@
-# selector_gui.py - Fully Synced GUI with main.py
 
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
@@ -6,12 +5,7 @@ import os
 import threading
 import sys
 
-# --- PATH SETUP & IMPORTS ---
-
-# Ensure main project directory is in sys.path for imports
-# ...existing code...
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
-# ...existing code...
 from main import select_best_images
 import config
 
