@@ -1,5 +1,3 @@
-# main.py - Fully Updated Version
-
 import os
 import csv
 import cv2
